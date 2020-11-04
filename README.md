@@ -2,4 +2,4 @@
 
 Linikja dodana w branch'u "update-readme"
 
-Updated locally
+Updated locally, then remotely
